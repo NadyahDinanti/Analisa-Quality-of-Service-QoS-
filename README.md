@@ -56,8 +56,12 @@ Assesment:
    Gunawan alfarizi. (2013). Menghitung Throughput, Delay Dan Packet Loss Menggunakan Wireshark dan Rumus. Retrieved from          
    https://gunawanalfarizi.blogspot.com/2013/11/menghitung-throughput-delay-dan-packet.html
 
-   Rendi Riansa. (2020). Cara Mengukur dan Menghitung Delay, Jitter, Throughput dan Packet Loss. Retrieved from https://www.rendiriansyah.com/2020/06/cara-mengukur-dan- 
-   menghitung-delay.html
+   Wireshark Documentation: https://www.wireshark.org/docs/wsug_html_chunked/
+   
+   Tanenbaum, Andrew S. (2003). Computer Networks. 4th Edition. Pearson.
+   
+   Kurose, James F., and Keith W. Ross. (2017). Computer Networking: A Top-Down Approach. 7th Edition. Pearson.
+   
     
  
 

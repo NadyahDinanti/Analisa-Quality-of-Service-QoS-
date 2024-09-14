@@ -6,12 +6,8 @@ Assesment:
    - Download dan Upload File
      
 2. Buatlah tabel hasil pengukuran dari Throughput, Packet Loss, Delay, dan Jitter.
-  |  PENGUKURAN |	  NILAI	  |  KATEGORI      |
-  |------------------------------------------|
-  |  Throughput	|  674 kbps	|   Baik         |
-  |  Packet Loss|	    0%	  | Sangat Baik    |
-  |  Delay	    |     -	    | Tidak Tersedia |
-  |  Jitter	    |     -	    | Tidak Tersedia |
+   ![image](https://github.com/user-attachments/assets/d5b4dc0e-9654-46ec-b05a-8dfc58c27462)
+
 
 4. Tulislah hasil perhitungan dengan rumus dari Throughput, Packet Loss, Delay, dan Jitter.
    a) Throughput:
@@ -50,10 +46,10 @@ Assesment:
       
 7. Sumber/referensi/daftar pustaka.
    Yudi Ariwibowo. (2021). Menghitung Throughput, Packet Loss, Delay dan Jitter Menggunakan Wireshark. Retrieved from https://youtu.be/RgPhJ0r7duk?si=yf23bnVFPGUv9KSC
-   Gunawan alfarizi. (2013). Menghitung Throughput, Delay Dan Packet Loss Menggunakan Wireshark dan Rumus. Retrieved from https://gunawan- 
-   alfarizi.blogspot.com/2013/11/menghitung-throughput-delay-dan-packet.html
+   Gunawan alfarizi. (2013). Menghitung Throughput, Delay Dan Packet Loss Menggunakan Wireshark dan Rumus. Retrieved from          
+   https://gunawanalfarizi.blogspot.com/2013/11/menghitung-throughput-delay-dan-packet.html
    Rendi Riansa. (2020). Cara Mengukur dan Menghitung Delay, Jitter, Throughput dan Packet Loss. Retrieved from https://www.rendiriansyah.com/2020/06/cara-mengukur-dan- 
-   menghitung-delay.html#google_vignette
+   menghitung-delay.html
     
  
 
